@@ -28,7 +28,7 @@ The dashboard page is designed with actual components, avoiding the use of image
 1. Clone the repository to your local machine & download the HTML file (e.g., `index.html`) to your local machine.
 2. Open the file in a web browser to use the authentication form.   
 3. Click on the "Forgot your password" link to initiate the password reset process.
-4. Access the `Page2.html` file to explore the dashboard components using "123" as password.
+4. Access the `Page2.html` file to explore the dashboard components using "Abhi@123" as password.
 
 ## Implementation Details:
 
